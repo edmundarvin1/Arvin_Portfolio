@@ -1,2 +1,2 @@
 # Arvin_Portfolio
-A basicData Science Portfolio
+A basic Data Science Portfolio
