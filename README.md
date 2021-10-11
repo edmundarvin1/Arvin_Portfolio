@@ -1,4 +1,4 @@
-# Arvin_Portfolio
+# Edmund Arvin D. De Leon
 A Data Science Portfolio of a bank trader turned data scientist.
 
 # [Project 1: Identifying App Profiles that Drive User Growth](https://github.com/edmundarvin1/app_profiles)
