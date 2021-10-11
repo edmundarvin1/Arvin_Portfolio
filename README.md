@@ -1,5 +1,5 @@
 # Arvin_Portfolio
-A basic Data Science Portfolio
+A Data Science Portfolio of a bank trader turned data scientist.
 
 # [Project 1: Identifying App Profiles that Drive User Growth](https://github.com/edmundarvin1/app_profiles)
 - The goal of this project is to help software developers make data-driven choices with respect to mobile app they are developing
