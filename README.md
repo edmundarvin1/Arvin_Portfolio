@@ -1,4 +1,5 @@
 # Edmund Arvin D. De Leon
+A portfolio of projects of a Bank Trader turned Junior Data Scientist 
 
 # [Project 1: Identifying App Profiles that Drive User Growth](https://github.com/edmundarvin1/app_profiles)
 - The goal of this project is to help software developers make data-driven choices with respect to mobile app they are developing
